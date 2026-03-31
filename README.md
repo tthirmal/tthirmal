@@ -87,9 +87,9 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tthirmal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tthirmal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tthirmal&theme=tokyonight&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tthirmal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tthirmal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 <br/>
@@ -98,7 +98,7 @@
 
 # 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tthirmal&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-ruby.vercel.app/?username=tthirmal&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 <br/>
@@ -133,10 +133,10 @@
 
 <p align="center">
   <a href="https://github.com/AutomateStack/ADA-Shield">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AutomateStack&repo=ADA-Shield&theme=tokyonight" alt="ADA-Shield" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AutomateStack&repo=ADA-Shield&theme=tokyonight" alt="ADA-Shield" />
   </a>
   <a href="https://github.com/AutomateStack/CareerCraft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AutomateStack&repo=CareerCraft&theme=tokyonight" alt="CareerCraft" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AutomateStack&repo=CareerCraft&theme=tokyonight" alt="CareerCraft" />
   </a>
 </p>
 
