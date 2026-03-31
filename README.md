@@ -16,7 +16,7 @@
 
 - 🌱 I'm currently exploring : **AI | SaaS | Automation Workflows**
 
-- 🛡️ Check out my projects : [ADA-Shield](https://ada-shield-dashboard.vercel.app/) · [CareerCraft](https://career-craft-seven-psi.vercel.app/)
+- 🛡️ Building **6 SaaS & Automation projects** under [@AutomateStack](https://github.com/AutomateStack) : [ADA-Shield](https://ada-shield-dashboard.vercel.app/) · [CareerCraft](https://career-craft-seven-psi.vercel.app/) · Reddit-Tales · EnglishSongs · BI-Developer · QuotePost
 
 - 📝 I write about Data & BI : [MSBI Dev Blog](http://msbidev.blogspot.in/)
 
@@ -129,16 +129,86 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Projects — [@AutomateStack](https://github.com/AutomateStack)
 
-<p align="center">
-  <a href="https://github.com/AutomateStack/ADA-Shield">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AutomateStack&repo=ADA-Shield&theme=tokyonight" alt="ADA-Shield" />
-  </a>
-  <a href="https://github.com/AutomateStack/CareerCraft">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AutomateStack&repo=CareerCraft&theme=tokyonight" alt="CareerCraft" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [ADA-Shield](https://ada-shield-dashboard.vercel.app/)
+**ADA/WCAG Accessibility Compliance SaaS**
+
+Scans websites using a headless browser (Puppeteer + axe-core) against 50+ WCAG 2.1 AA rules, calculates a 0–100 lawsuit risk score, and provides exact code fixes for every violation. Includes weekly monitoring with email alerts, trend dashboards, and Stripe-powered subscription tiers.
+
+`Next.js 14` `Express.js` `Supabase` `Puppeteer` `axe-core` `BullMQ` `Redis` `Stripe` `Tailwind CSS` `Vercel` `Render`
+
+<a href="https://github.com/AutomateStack/ADA-Shield">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AutomateStack&repo=ADA-Shield&theme=tokyonight" alt="ADA-Shield" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 [CareerCraft](https://career-craft-seven-psi.vercel.app/)
+**AI-Powered Resume Builder**
+
+Build ATS-friendly resumes with live preview, multiple templates (Classic, Modern, Minimal), AI-assisted bullet point enhancement, professional summary generation, ATS keyword scoring against job descriptions, and LinkedIn profile import. Export to PDF (A4).
+
+`React 19` `Vite 8` `OpenAI API` `Tailwind CSS` `Framer Motion` `Vercel Serverless` `html2canvas` `jsPDF`
+
+<a href="https://github.com/AutomateStack/CareerCraft">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AutomateStack&repo=CareerCraft&theme=tokyonight" alt="CareerCraft" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Reddit-Tales
+**Automated Reddit Story Video Generator**
+
+Transforms thrilling Reddit stories into engaging videos and automatically posts them across YouTube, Facebook, and Instagram. End-to-end content pipeline from story selection to multi-platform distribution.
+
+`Python` `AI/ML` `FFmpeg` `YouTube API` `Facebook API` `Instagram API` `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎵 EnglishSongs
+**AI-Generated Music Content Platform**
+
+Generates original English songs and automatically publishes them as YouTube videos, YouTube Shorts, and Facebook Reels. Fully automated content creation and distribution pipeline.
+
+`Python` `AI/ML` `FFmpeg` `YouTube API` `Facebook API` `Content Automation`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 BI-Developer
+**Automated Tech Blog Publisher**
+
+Daily automated blog posts on Snowflake, dbt, Azure, and other data engineering technologies. Publishes content to Blogger, keeping the tech community updated with fresh insights on modern data stack tools.
+
+`Python` `Blogger API` `AI/ML` `Snowflake` `dbt` `Azure` `Content Generation`
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 QuotePost
+**Motivational Quote Video Automation**
+
+Generates and publishes daily YouTube Shorts featuring motivational quotes with engaging visuals. Fully automated pipeline from quote selection to video creation and YouTube upload.
+
+`Python` `YouTube API` `FFmpeg` `AI/ML` `Video Generation` `Automation`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
